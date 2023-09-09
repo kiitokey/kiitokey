@@ -16,6 +16,6 @@
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[g-mail]: kiitokeyonna@gmail.com
-[instagram]: https://www.instagram.com/kiikiitag/
-[linkedin]: https://www.linkedin.com/in/keyonna-hicks-ba663113b/
+[g-mail](kiitokeyonna@gmail.com)
+[instagram](https://www.instagram.com/kiikiitag/)
+[linkedin](https://www.linkedin.com/in/keyonna-hicks-ba663113b/)
