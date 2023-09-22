@@ -3,7 +3,7 @@
 <h2> Information Technology Portfolio:</h2>
 
 - <b>Information Technology Portfolio:</b>
-- [ <img src="./icons/Azure-Dark.svg" width="48"> Azure | Computing & Networking Video ](https://kiitokeystudios.com/informationtech/)
+- [Azure | Computing & Networking Video ](https://kiitokeystudios.com/informationtech/)
   
   - Environments and Technologies Used:
   
