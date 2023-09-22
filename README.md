@@ -1,8 +1,8 @@
 <h1>Hi, I'm Keyonna, an <a href="https://www.linkedin.com/in/keyonna-hicks-ba663113b/">IT Help Desk/Data Analyst</a>☺</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 Information Technology Portfolio:</h2>
 
-- <b>Here are my Information Technology Portfolio:</b>
+- <b>Information Technology Portfolio:</b>
 - [ Azure | Computing & Networking Video ](https://kiitokeystudios.com/informationtech/)
   
   - Environments and Technologies Used:
