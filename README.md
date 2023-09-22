@@ -3,23 +3,23 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Here are my Information Technology projects:</b>
-- [ + Azure | Computing & Networking](https://kiitokeystudios.com/informationtech/)
+- [ Azure | Computing & Networking ](https://kiitokeystudios.com/informationtech/)
   
-  ● Environments and Technologies Used:
+  - Environments and Technologies Used:
   
-   Microsoft Azure (Virtual Machines/Compute), Remote Desktop Connection, Protocols: SSH, DNS, ICMP, DCHP, Remote Desktop Connection, PowerShell, Wireshark
+    Microsoft Azure (Virtual Machines/Compute), Remote Desktop Connection, Protocols: SSH, DNS, ICMP, DCHP, Remote Desktop Connection, PowerShell, Wireshark
 
 
-- [ + Microsoft Azure | osTicket installation](https://kiitokeystudios.com/informationtech/)
+- [ Microsoft Azure | osTicket installation ](https://kiitokeystudios.com/informationtech/)
   
-  ● Environments and Technology Used:
+  - Environments and Technology Used:
 
     Microsoft Azure(Virtual Machines/Compute), Remote Desktop
 
 
-- [ + Navigating through osTicket | As a User or Agent/Admin](https://kiitokeystudios.com/informationtech/)
+- [ Navigating through osTicket | As a User or Agent/Admin ](https://kiitokeystudios.com/informationtech/)
   
-  ● Environments and Technology Used:
+  - Environments and Technology Used:
 
     Microsoft Azure (Virtual Machines/Compute), Remote Desktop, Creating (Roles/Departments/Teams/SLAs/Help Topics/Users/Agents/Tickets) and osTicket
 
