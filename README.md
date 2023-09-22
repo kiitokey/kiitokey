@@ -5,7 +5,7 @@
 - <b>Here are my Information Technology projects:</b>
 - [Azure | Computing & Networking](https://kiitokeystudios.com/informationtech/)
   
-    Environments and Technologies Used:
+    <b> Environments and Technologies Used:</b>
    Microsoft Azure (Virtual Machines/Compute), Remote Desktop Connection, Protocols: SSH, DNS, ICMP, DCHP, Remote Desktop Connection, PowerShell, Wireshark
 
 
