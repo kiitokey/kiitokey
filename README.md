@@ -25,5 +25,5 @@
 
   
  
-[G-mail](kiitokeyonna@gmail.com)                [instagram](https://www.instagram.com/kiikiitag/)                  [linkedin](https://www.linkedin.com/in/keyonna-hicks-ba663113b/)
+[G-mail](kiitokeyonna@gmail.com)                              [instagram](https://www.instagram.com/kiikiitag/)                              [linkedin](https://www.linkedin.com/in/keyonna-hicks-ba663113b/)
   
