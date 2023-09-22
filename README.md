@@ -17,4 +17,5 @@ Environments and Technology Used: Microsoft Azure (Virtual Machines/Compute), Re
 Environments and Technology Used:
     ● Microsoft Azure (Virtual Machines/Compute), Remote Desktop, Creating (Roles/Departments/Teams/SLAs/Help Topics/Users/Agents/Tickets) and osTicket
  
-[g-mail](kiitokeyonna@gmail.com)    [instagram](https://www.instagram.com/kiikiitag/)    [linkedin](https://www.linkedin.com/in/keyonna-hicks-ba663113b/)
+[G-mail](kiitokeyonna@gmail.com)                [instagram](https://www.instagram.com/kiikiitag/)                  [linkedin](https://www.linkedin.com/in/keyonna-hicks-ba663113b/)
+  
