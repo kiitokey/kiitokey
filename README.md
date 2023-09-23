@@ -4,12 +4,12 @@
 
 - <b>Information Technology Portfolio:</b>
 
-- [ Active Directory| Software Deployment Video](https://kiitokeystudios.com/informationtech/)
+- [ Active Directory | Software Deployment Video ](https://kiitokeystudios.com/informationtech/)
     - Environments and Technologies Used:
   
     Microsoft Azure (Virtual Machines/Compute), Remote Desktop Connection, Windows 10 and Window Server 2022, Active Directory, PowerShell ISE, CMD
   
-- [ Active Directory|A-Record + CNAME / Permission Access Video ](https://kiitokeystudios.com/informationtech/)
+- [ Active Directory | A-Record + CNAME / Permission Access Video ](https://kiitokeystudios.com/informationtech/)
     - Environments and Technologies Used:
 
        Microsoft Azure (Virtual Machines/Compute), Remote Desktop Connection, File Explorer, Windows 10 and Window Server 2022, Active Directory, CMD
